@@ -1,0 +1,16 @@
+{
+  "name": "runoob-react-test",
+  "version": "1.0.0",
+  "description": "KGJJJ react example",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC"
+}
